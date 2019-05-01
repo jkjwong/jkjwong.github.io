@@ -4,7 +4,28 @@
         <description><![CDATA[Kee's World by C.W. Kee]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Apr 2019 10:07:53 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2019 22:45:17 +0100</lastBuildDate>
+        <item>
+            <title><![CDATA[Kee's World - May 01, 2019]]></title>
+            <description><![CDATA[<img src="http://www1.star2.com/wp-content/uploads/2019/05/str2_kee_010519.jpg"><p><a href="https://www.star2.com/living/comics/2019/05/01/kees-world-may-01-2019/">Source</a></p>]]></description>
+            <link>https://www.star2.com/living/comics/2019/05/01/kees-world-may-01-2019/</link>
+            <guid isPermaLink="true">https://www.star2.com/living/comics/2019/05/01/kees-world-may-01-2019/</guid>
+            <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kee's World - April 30, 2019]]></title>
+            <description><![CDATA[<img src="http://www1.star2.com/wp-content/uploads/2019/04/str2_kee_300419.jpg"><p><a href="https://www.star2.com/living/comics/2019/04/30/kees-world-april-30-2019/">Source</a></p>]]></description>
+            <link>https://www.star2.com/living/comics/2019/04/30/kees-world-april-30-2019/</link>
+            <guid isPermaLink="true">https://www.star2.com/living/comics/2019/04/30/kees-world-april-30-2019/</guid>
+            <pubDate>Tue, 30 Apr 2019 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kee's World - April 29, 2019]]></title>
+            <description><![CDATA[<img src="http://www1.star2.com/wp-content/uploads/2019/04/str2_kee_290419.jpg"><p><a href="https://www.star2.com/living/comics/2019/04/29/kees-world-april-29-2019/">Source</a></p>]]></description>
+            <link>https://www.star2.com/living/comics/2019/04/29/kees-world-april-29-2019/</link>
+            <guid isPermaLink="true">https://www.star2.com/living/comics/2019/04/29/kees-world-april-29-2019/</guid>
+            <pubDate>Mon, 29 Apr 2019 00:00:00 +0100</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kee's World - April 28, 2019]]></title>
             <description><![CDATA[<img src="http://www1.star2.com/wp-content/uploads/2019/04/str2_kee_280419.jpg"><p><a href="https://www.star2.com/living/comics/2019/04/28/kees-world-april-28-2019/">Source</a></p>]]></description>
@@ -123,27 +144,6 @@
             <link>https://www.star2.com/living/comics/2019/04/12/kees-world-april-12-2019/</link>
             <guid isPermaLink="true">https://www.star2.com/living/comics/2019/04/12/kees-world-april-12-2019/</guid>
             <pubDate>Fri, 12 Apr 2019 00:00:00 +0100</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kee's World - April 11, 2019]]></title>
-            <description><![CDATA[<img src="http://www1.star2.com/wp-content/uploads/2019/04/str2_kee_110419.jpg"><p><a href="https://www.star2.com/living/comics/2019/04/11/kees-world-april-11-2019/">Source</a></p>]]></description>
-            <link>https://www.star2.com/living/comics/2019/04/11/kees-world-april-11-2019/</link>
-            <guid isPermaLink="true">https://www.star2.com/living/comics/2019/04/11/kees-world-april-11-2019/</guid>
-            <pubDate>Thu, 11 Apr 2019 00:00:00 +0100</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kee's World - April 10, 2019]]></title>
-            <description><![CDATA[<img src="http://www1.star2.com/wp-content/uploads/2019/04/str2_kee_100419.jpg"><p><a href="https://www.star2.com/living/comics/2019/04/10/kees-world-april-10-2019/">Source</a></p>]]></description>
-            <link>https://www.star2.com/living/comics/2019/04/10/kees-world-april-10-2019/</link>
-            <guid isPermaLink="true">https://www.star2.com/living/comics/2019/04/10/kees-world-april-10-2019/</guid>
-            <pubDate>Wed, 10 Apr 2019 00:00:00 +0100</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kee's World - April 09, 2019]]></title>
-            <description><![CDATA[<img src="http://www1.star2.com/wp-content/uploads/2019/04/str2_kee_090419.jpg"><p><a href="https://www.star2.com/living/comics/2019/04/09/kees-world-april-09-2019/">Source</a></p>]]></description>
-            <link>https://www.star2.com/living/comics/2019/04/09/kees-world-april-09-2019/</link>
-            <guid isPermaLink="true">https://www.star2.com/living/comics/2019/04/09/kees-world-april-09-2019/</guid>
-            <pubDate>Tue, 09 Apr 2019 00:00:00 +0100</pubDate>
         </item>
     </channel>
 </rss>
